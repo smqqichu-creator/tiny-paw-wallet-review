@@ -1,0 +1,10 @@
+{
+  "issuer": "https://smqqichu-creator.github.io/tiny-paw-wallet-review",
+  "jwks_uri": "https://smqqichu-creator.github.io/tiny-paw-wallet-review/.well-known/jwks.json",
+  "id_token_signing_alg_values_supported": [
+    "RS256"
+  ],
+  "subject_types_supported": [
+    "public"
+  ]
+}
